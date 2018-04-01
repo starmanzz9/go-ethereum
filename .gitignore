@@ -39,9 +39,8 @@ profile.cov
 
 # dashboard
 /dashboard/assets/flow-typed
+/dashboard/assets/yarn.lock
+/dashboard/assets/yarn-error.log
 /dashboard/assets/node_modules
 /dashboard/assets/stats.json
 /dashboard/assets/bundle.js
-/dashboard/assets/package-lock.json
-
-**/yarn-error.log
